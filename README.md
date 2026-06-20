@@ -1,4 +1,6 @@
-# Awesome Learn: AI Workflows
+# Awesome Learn: AI Workflows [![Awesome Learn](https://srv-cdn.himpfen.io/badges/awesome-learn/awesomelearn-flat.svg)](https://github.com/brandonhimpfen/awesome-learn)
+
+[![Support Open Work](https://img.shields.io/badge/Support-Open%20Work-0A0A0A?style=flat&logo=github)](https://github.com/brandonhimpfen/support)
 
 A structured learning path for understanding, designing, and improving AI-assisted workflows.
 
